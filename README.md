@@ -18,7 +18,7 @@ Actualmente, me desempeño como **Project Manager TI**, ayudando a empresas a op
 - ![⚽](https://img.shields.io/badge/Fútbol-%23FF4500.svg?style=flat) Disfruto viendo y jugando fútbol.
 - ![🎮](https://img.shields.io/badge/Videojuegos-%238A2BE2.svg?style=flat) Aficionado a los videojuegos en mis ratos libres.
 
-### 🌎 Países donde presto servicios de forma prescencial o remota.
+### 🌎 Países donde presto servicios de forma presencial o remota.
 - 🇨🇱 Chile
 - 🇦🇷 Argentina
 - 🇵🇾 Paraguay
