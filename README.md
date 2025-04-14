@@ -10,8 +10,7 @@ Actualmente, me desempeño como **Project Manager TI**, ayudando a empresas a op
 - **Bases de datos**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 - **Tecnologías web**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 - **Cloud & DevOps**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-- **Geoespaciales**: GIS, herramientas de análisis espacial
-- **Otros**: Diseño digital, Business Intelligence (BI)
+- **Otros**: Diseño digital, Business Intelligence (BI), GIS, herramientas de análisis espacial.
 
 ### ⚽🎮 Pasatiempos.
 - ![🎾](https://img.shields.io/badge/Tenis-%231E90FF.svg?style=flat) Me gusta jugar tenis en mi tiempo libre.
