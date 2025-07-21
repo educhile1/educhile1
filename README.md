@@ -1,8 +1,7 @@
  # 👋 Hola, soy Eduardo, por acá me dicen educhile1.
 
 ### 🚀 Sobre mí.
-Soy un apasionado por la tecnología y la innovación, con experiencia en consultoría TI y gestión de proyectos tecnológicos. 
-Actualmente, me desempeño como **Project Manager TI**, ayudando a empresas a optimizar sus procesos mediante soluciones digitales eficientes.
+Soy un apasionado por la tecnología y la innovación, ayudo a empresas a optimizar sus procesos mediante soluciones digitales eficientes.
 
 ### 🛠️ Tecnologías y herramientas.
 - **Gestión de proyectos**: Agile, Scrum, PMBOK
@@ -16,11 +15,6 @@ Actualmente, me desempeño como **Project Manager TI**, ayudando a empresas a op
 - ![🎾](https://img.shields.io/badge/Tenis-%231E90FF.svg?style=flat) Me gusta jugar tenis en mi tiempo libre.
 - ![⚽](https://img.shields.io/badge/Fútbol-%23FF4500.svg?style=flat) Disfruto viendo y jugando fútbol.
 - ![🎮](https://img.shields.io/badge/Videojuegos-%238A2BE2.svg?style=flat) Aficionado a los videojuegos en mis ratos libres.
-
-### 🌎 Países donde presto servicios de forma presencial o remota.
-- 🇨🇱 Chile
-- 🇦🇷 Argentina
-- 🇵🇾 Paraguay
 
 ### 📫 Conéctate conmigo
 - 💼 [Correo electrónico](mailto:eduardo@tierra-ayni.com)
