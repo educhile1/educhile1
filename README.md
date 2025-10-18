@@ -1,7 +1,15 @@
  # 👋 Hola, soy Eduardo, por acá me dicen educhile1.
-
+ 
 ### 🚀 Sobre mí.
 Soy un apasionado por la tecnología y la innovación, ayudo a empresas a optimizar sus procesos mediante soluciones digitales eficientes.
+
+Actualmente (Finales 2025)
+
+- 🔭 Implementando en propducción Proyecto UNIS, tengo el rol Arquitecto y Jefe de proyectos.
+- 🛡️ Implementación ley Marco de ciberseguridad, Delegado de ciberseguridad, encargado de responder e informar técnicamente a la Agencia Nacional de Ciberseguridad.
+- 🎓 Estudiante Programa Oracle Next Education - Nivel Tech Advanced.
+- 🎓 Estudiante Programa Santander Skills for Work.
+  
 
 ### 🛠️ Tecnologías y herramientas.
 - **Gestión de proyectos**: Agile, Scrum, PMBOK
