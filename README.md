@@ -20,6 +20,12 @@ Soy un apasionado por la tecnología y la innovación, ayudo a empresas a optimi
 - 💼 [Correo electrónico](mailto:eduardo@tierra-ayni.com)
 - 📩 [Correo electrónico](mailto:eduardocayun@gmail.com)
 
+### 📊 Mis estadisticas en Git:
+![](https://github-readme-stats.vercel.app/api?username=educhile1&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=educhile1&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=educhile1&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 🚀 ¡Siempre abierto a nuevas oportunidades, desafios, aprendizaje y colaboraciones!
 
