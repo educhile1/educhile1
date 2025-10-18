@@ -11,7 +11,7 @@ Actualmente (Finales 2025)
 - 🎓 Estudiante Programa Santander Skills for Work.
   
 
-### 🛠️ Tecnologías y herramientas.
+### 🛠️ Tecnologías y herramientas aplicadas en proyectos empresariales.
 - **Gestión de proyectos**: Agile, Scrum, PMBOK
 - **Desarrollo y TI**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 - **Bases de datos**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
