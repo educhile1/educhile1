@@ -7,8 +7,10 @@ Actualmente (Finales 2025)
 
 - 🔭 Implementando en producción Proyecto UNIS, tengo el rol Arquitecto y Jefe de proyectos.
 - 🛡️ Implementación ley Marco de ciberseguridad, Delegado de ciberseguridad, encargado de responder e informar técnicamente a la Agencia Nacional de Ciberseguridad.
-- 🎓 Estudiante Programa Oracle Next Education - Nivel Tech Advanced.
-- 🎓 Estudiante Programa Santander Skills for Work.
+- 🎓 Estudiante Programa Oracle Next Education - Nivel Tech Advanced(Beca Oracle).
+- 🎓 Estudiante Programa Santander Skills for Work(Beca).
+- 🎓 Estudiante Alura Latam IA. (Premio obtenido por posición de 8vo entre 200.000 alumnos).
+- 🎓 Estudiante Udemy(pagado por mi).
   
 
 ### 🛠️ Tecnologías y herramientas aplicadas en proyectos empresariales.
