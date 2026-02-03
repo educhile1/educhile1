@@ -30,9 +30,7 @@ Actualmente (Finales 2025)
 - 💼 [Correo electrónico](mailto:eduardo@tierra-ayni.com)
 - 📩 [Correo electrónico](mailto:eduardocayun@gmail.com)
 
-### Mis números en Github:_
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=educhile1).
 
 🚀 ¡Siempre abierto a nuevas oportunidades, desafios, aprendizaje y colaboraciones!
 
