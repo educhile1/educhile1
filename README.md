@@ -2,6 +2,7 @@
  
 ### 🚀 Sobre mí.
 Soy un apasionado por la tecnología y la innovación, ayudo a empresas a optimizar sus procesos mediante soluciones digitales eficientes.
+Formalmente soy Ingeniero con MBA, si como en la publicidad!!
 
 Actualmente (Finales 2025)
 
