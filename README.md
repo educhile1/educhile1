@@ -11,7 +11,7 @@ Actualmente (Finales 2025)
 - 🎓 Estudiante Programa Oracle Next Education G9- Nivel Tech Advanced(Beca Oracle).
 - 🎓 Estudiante Programa Santander Skills for Work(Beca).
 - 🎓 Estudiante Programa Santander Ciberseguridad(Beca).
-- 🎓 Estudiante Universidad de Malaga(Beca UE e INCIBE).
+- 🎓 Beca de ciberseguridad, Universidad de Malaga(Beca UE e INCIBE).
 - 🎓 Estudiante Alura Latam IA. (Premio obtenido por posición de 8vo entre 200.000 alumnos).
 - 🎓 Estudiante Udemy(pagado por mi).
   
