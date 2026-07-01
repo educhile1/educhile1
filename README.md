@@ -12,7 +12,7 @@ Actualmente (Finales 2025)
 - 🎓 Estudiante Programa Santander Skills for Work(Beca).
 - 🎓 Estudiante Programa Santander Ciberseguridad(Beca).
 - 🎓 Beca de ciberseguridad, Universidad de Malaga(Beca UE e INCIBE).
-- 🎓 Estudiante Alura Latam IA. (Premio obtenido por posición de 8vo entre 200.000 alumnos).
+- 🎓 Estudiante Alura Latam IA. (Premio obtenido por posición de 8vo entre 200.000 proyectos/alumnos).
 - 🎓 Estudiante Udemy(pagado por mi).
   
 
