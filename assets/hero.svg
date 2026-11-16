@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#091326" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#2dd4bf" />
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.8" stroke-opacity="0.6" />
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Fondo base y grilla de arquitectura -->
+  <rect width="1000" height="340" rx="16" fill="url(#bg)" />
+  <rect width="1000" height="340" rx="16" fill="url(#grid)" />
+
+  <!-- Líneas de circuito decorativas a la derecha -->
+  <g stroke="url(#accentGrad)" stroke-width="1.5" fill="none" opacity="0.35">
+    <path d="M 680 40 L 760 40 L 800 80 L 950 80" />
+    <path d="M 740 120 L 830 120 L 860 90 L 960 90" />
+    <path d="M 790 165 L 880 165 L 910 135 L 970 135" />
+    <circle cx="680" cy="40" r="3.5" fill="#38bdf8" />
+    <circle cx="740" cy="120" r="3.5" fill="#818cf8" />
+    <circle cx="790" cy="165" r="3.5" fill="#2dd4bf" />
+  </g>
+
+  <!-- Barra superior de acento -->
+  <rect x="0" y="0" width="1000" height="4" rx="2" fill="url(#accentGrad)" />
+
+  <!-- Píldora de estado superior -->
+  <rect x="45" y="32" width="385" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1" />
+  <circle cx="63" cy="46" r="4.5" fill="#10b981">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite" />
+  </circle>
+  <text x="78" y="50" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="11.5" fill="#94a3b8" letter-spacing="1.2">
+    ARCHITECTURE · CYBERSECURITY · AI LEADERSHIP
+  </text>
+
+  <!-- Nombre y título principal -->
+  <text x="45" y="108" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="800" fill="#f8fafc" letter-spacing="-0.5">
+    Eduardo Cayún
+  </text>
+  <text x="365" y="108" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace" font-size="18" font-weight="500" fill="#38bdf8">
+    @educhile1
+  </text>
+
+  <!-- Subtítulo ejecutivo -->
+  <text x="45" y="142" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="17.5" font-weight="600" fill="#cbd5e1">
+    Ingeniero &amp; MBA  ·  Arquitecto de Soluciones &amp; Jefe de Proyectos TI  ·  Delegado de Ciberseguridad
+  </text>
+
+  <!-- Frase con guiño de personalidad -->
+  <text x="45" y="172" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-style="italic" fill="#94a3b8">
+    "Ingeniero con MBA — sí, como en la publicidad, pero llevando arquitectura crítica, IA y ciberdefensa a producción."
+  </text>
+
+  <!-- 3 Tarjetas de Telemetría Ejecutiva (Bento KPIs) -->
+  <!-- Tarjeta 1: Arquitectura TI -->
+  <g transform="translate(45, 202)">
+    <rect width="290" height="104" rx="12" fill="url(#cardBg)" stroke="#334155" stroke-width="1" />
+    <rect x="0" y="0" width="4" height="104" rx="2" fill="#38bdf8" />
+    <text x="20" y="28" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#38bdf8" letter-spacing="1">
+      01 // ARQUITECTURA &amp; DIRECCIÓN TI
+    </text>
+    <text x="20" y="56" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#f8fafc">
+      Proyecto UNIS (Prod)
+    </text>
+    <text x="20" y="80" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="12.5" fill="#94a3b8">
+      Arquitecto &amp; Jefe de Proyectos · PMBOK / Agile
+    </text>
+  </g>
+
+  <!-- Tarjeta 2: Ciberseguridad -->
+  <g transform="translate(355, 202)">
+    <rect width="290" height="104" rx="12" fill="url(#cardBg)" stroke="#334155" stroke-width="1" />
+    <rect x="0" y="0" width="4" height="104" rx="2" fill="#818cf8" />
+    <text x="20" y="28" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#818cf8" letter-spacing="1">
+      02 // GOBIERNO &amp; CIBERDEFENSA
+    </text>
+    <text x="20" y="56" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#f8fafc">
+      Delegado ante la ANCI
+    </text>
+    <text x="20" y="80" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="12.5" fill="#94a3b8">
+      Ley Marco Ciberseguridad · Beca UE &amp; INCIBE
+    </text>
+  </g>
+
+  <!-- Tarjeta 3: IA & Reconocimiento -->
+  <g transform="translate(665, 202)">
+    <rect width="290" height="104" rx="12" fill="url(#cardBg)" stroke="#334155" stroke-width="1" />
+    <rect x="0" y="0" width="4" height="104" rx="2" fill="#2dd4bf" />
+    <text x="20" y="28" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#2dd4bf" letter-spacing="1">
+      03 // INTELIGENCIA ARTIFICIAL &amp; GIS
+    </text>
+    <text x="20" y="56" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#f8fafc">
+      Top 8 de 200.000 (IA)
+    </text>
+    <text x="20" y="80" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="12.5" fill="#94a3b8">
+      Premio Alura Latam · BI &amp; Geointeligencia
+    </text>
+  </g>
+
+  <!-- Borde exterior sutil -->
+  <rect x="0.5" y="0.5" width="999" height="339" rx="16" fill="none" stroke="#334155" stroke-width="1" />
+</svg>

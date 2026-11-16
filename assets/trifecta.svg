@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b1120" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0b1120" />
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#2dd4bf" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="210" rx="14" fill="url(#bg2)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Título de sección dentro del diagrama -->
+  <text x="500" y="34" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#64748b" letter-spacing="2">
+    ARQUITECTURA DE VALOR: CONVERGENCIA EJECUTIVA · TÉCNICA · NORMATIVA
+  </text>
+
+  <!-- Línea conectora entre los 3 nodos -->
+  <line x1="200" y1="115" x2="800" y2="115" stroke="url(#lineGrad)" stroke-width="2" stroke-dasharray="6,6" />
+
+  <!-- Nodo 1: Estrategia & Negocio -->
+  <g transform="translate(45, 55)">
+    <rect width="270" height="125" rx="10" fill="#111827" stroke="#38bdf8" stroke-width="1.2" />
+    <text x="20" y="30" font-family="'JetBrains Mono', Consolas, monospace" font-size="11.5" font-weight="700" fill="#38bdf8">
+      CAPA 01 · ESTRATEGIA &amp; PMO
+    </text>
+    <text x="20" y="55" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#f1f5f9">
+      Visión de Negocio (MBA)
+    </text>
+    <text x="20" y="80" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="12.5" fill="#94a3b8">
+      • Dirección PMBOK, Agile &amp; Scrum
+    </text>
+    <text x="20" y="102" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="12.5" fill="#94a3b8">
+      • Optimización de procesos críticos
+    </text>
+  </g>
+
+  <!-- Nodo 2: Arquitectura, Cloud & IA -->
+  <g transform="translate(365, 55)">
+    <rect width="270" height="125" rx="10" fill="#111827" stroke="#818cf8" stroke-width="1.2" />
+    <text x="20" y="30" font-family="'JetBrains Mono', Consolas, monospace" font-size="11.5" font-weight="700" fill="#818cf8">
+      CAPA 02 · INGENIERÍA, IA &amp; GIS
+    </text>
+    <text x="20" y="55" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#f1f5f9">
+      Arquitectura en Producción
+    </text>
+    <text x="20" y="80" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="12.5" fill="#94a3b8">
+      • Multi-Cloud (AWS, Azure, GCP) &amp; DBs
+    </text>
+    <text x="20" y="102" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="12.5" fill="#94a3b8">
+      • IA Aplicada, BI &amp; Análisis Espacial
+    </text>
+  </g>
+
+  <!-- Nodo 3: Ciberseguridad & Regulación -->
+  <g transform="translate(685, 55)">
+    <rect width="270" height="125" rx="10" fill="#111827" stroke="#2dd4bf" stroke-width="1.2" />
+    <text x="20" y="30" font-family="'JetBrains Mono', Consolas, monospace" font-size="11.5" font-weight="700" fill="#2dd4bf">
+      CAPA 03 · CIBERSEGURIDAD
+    </text>
+    <text x="20" y="55" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="15.5" font-weight="700" fill="#f1f5f9">
+      Cumplimiento &amp; Resiliencia
+    </text>
+    <text x="20" y="80" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="12.5" fill="#94a3b8">
+      • Implementación Ley Marco (ANCI)
+    </text>
+    <text x="20" y="102" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="12.5" fill="#94a3b8">
+      • Reporte técnico &amp; gestión de incidentes
+    </text>
+  </g>
+</svg>
