@@ -1,40 +1,58 @@
- # 👋 Hola, soy Eduardo, por acá me dicen educhile1.
- 
-### 🚀 Sobre mí.
-Soy un apasionado por la tecnología y la innovación, ayudo a empresas a optimizar sus procesos mediante soluciones digitales eficientes.
-Formalmente soy Ingeniero con MBA, si como en la publicidad!!
+# Eduardo Cayún
 
-Actualmente (Finales 2025)
+**Ingeniero & MBA | Arquitecto de Soluciones & Jefe de Proyectos TI | Delegado de Ciberseguridad**
 
-- 🔭 Implementando en producción Proyecto UNIS, tengo el rol Arquitecto y Jefe de proyectos.
-- 🛡️ Implementación ley Marco de ciberseguridad, Delegado de ciberseguridad, encargado de responder e informar técnicamente a la Agencia Nacional de Ciberseguridad.
-- 🎓 Estudiante Programa Oracle Next Education G9- Nivel Tech Advanced(Beca Oracle).
-- 🎓 Estudiante Programa Santander Skills for Work(Beca).
-- 🎓 Estudiante Programa Santander Ciberseguridad(Beca).
-- 🎓 Beca de ciberseguridad, Universidad de Malaga(Beca UE e INCIBE).
-- 🎓 Estudiante Alura Latam IA. (Premio obtenido por posición de 8vo entre 200.000 proyectos/alumnos).
-- 🎓 Estudiante Udemy(pagado por mi).
-  
+Profesional senior especializado en transformación digital, arquitectura de sistemas y gobierno de ciberseguridad. Combino visión estratégica de negocios (MBA) con dirección técnica para diseñar, implementar y asegurar soluciones tecnológicas críticas en entornos empresariales.
 
-### 🛠️ Tecnologías y herramientas aplicadas en proyectos empresariales.
-- **Gestión de proyectos**: Agile, Scrum, PMBOK
-- **Desarrollo y TI**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- **Bases de datos**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-- **Tecnologías web**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-- **Cloud & DevOps**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-- **Otros**: Diseño digital, Business Intelligence (BI), GIS, herramientas de análisis espacial.
+---
 
-### ⚽🎮 Pasatiempos.
-- ![🎾](https://img.shields.io/badge/Tenis-%231E90FF.svg?style=flat) Me gusta jugar tenis en mi tiempo libre.
-- ![⚽](https://img.shields.io/badge/Fútbol-%23FF4500.svg?style=flat) Disfruto viendo y jugando fútbol.
-- ![🎮](https://img.shields.io/badge/Videojuegos-%238A2BE2.svg?style=flat) Aficionado a los videojuegos en mis ratos libres.
+### Áreas de Práctica y Liderazgo Actual
 
-### 📫 Conéctate conmigo
-- 💼 [Correo electrónico](mailto:eduardo@tierra-ayni.com)
-- 📩 [Correo electrónico](mailto:eduardocayun@gmail.com)
+| Práctica | Responsabilidad y Alcance |
+| :--- | :--- |
+| **Arquitectura & Dirección de Proyectos TI** | **Arquitecto y Jefe de Proyectos** en la puesta en producción del **Proyecto UNIS**. Dirección integral del ciclo de vida de software y alineación operativa bajo estándares **PMBOK, Agile y Scrum**. |
+| **Ciberseguridad & Cumplimiento Normativo** | **Delegado de Ciberseguridad**, responsable de liderar la implementación de la **Ley Marco de Ciberseguridad** y actuar como contraparte técnica oficial ante la **Agencia Nacional de Ciberseguridad (ANCI)**. |
+| **Datos, IA & Inteligencia Territorial** | Optimización de procesos de negocio mediante modelos de **Inteligencia Artificial**, analítica ejecutiva (**Business Intelligence**) y sistemas de información geográfica (**GIS / Análisis Espacial**). |
 
+---
 
+### Credenciales, Especialización y Reconocimientos
 
-🚀 ¡Siempre abierto a nuevas oportunidades, desafios, aprendizaje y colaboraciones!
+* **Formación Ejecutiva:** Ingeniero con **Master of Business Administration (MBA)**.
+* **Reconocimiento Internacional en IA — Alura Latam:** **8.º lugar entre más de 200.000 proyectos y profesionales** a nivel regional.
+* **Ciberseguridad Avanzada — Universidad de Málaga (Unión Europea & INCIBE):** Beca de especialización internacional en seguridad de la información y ciberdefensa.
+* **Arquitectura & Desarrollo Avanzado — Oracle Next Education (ONE G9):** Beca de excelencia en el track *Tech Advanced*.
+* **Gobierno Digital & Seguridad — Banco Santander:** Becario de los programas *Santander Ciberseguridad* y *Skills for Work*.
 
+---
 
+### Competencias Técnicas y Herramientas
+
+* **Gobierno TI & Gestión de Proyectos:** PMBOK · Scrum · Agile · Gestión de Riesgos · Cumplimiento Ley Marco de Ciberseguridad (ANCI)
+* **Arquitectura Cloud:** AWS · Microsoft Azure · Google Cloud Platform (GCP)
+* **Motores de Bases de Datos:** Oracle · PostgreSQL · MySQL · MongoDB
+* **Desarrollo de Software:** Python · Java · C++ · JavaScript · React · HTML5 · CSS3
+* **Analítica & Geointeligencia:** Business Intelligence (BI) · Sistemas de Información Geográfica (GIS) · Análisis Espacial · Inteligencia Artificial Aplicada
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-18181b?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-18181b?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-18181b?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MongoDB-18181b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Google_Cloud-18181b?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/AWS-18181b?style=flat-square" alt="AWS" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-18181b?style=flat-square" alt="Azure" />
+</p>
+
+---
+
+### Contacto
+
+Disponible para dirección de proyectos tecnológicos, consultoría en arquitectura de sistemas, cumplimiento en ciberseguridad e iniciativas estratégicas.
+
+* **Correo electrónico:** [eduardocayun@gmail.com](mailto:eduardocayun@gmail.com)
