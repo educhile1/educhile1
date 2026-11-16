@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="portalBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06101e" />
+      <stop offset="50%" stop-color="#0d1f38" />
+      <stop offset="100%" stop-color="#071526" />
+    </linearGradient>
+    <linearGradient id="cyberBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="50%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+    <linearGradient id="ctaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+    <linearGradient id="botBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+    <radialGradient id="holoGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="portalGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1e3a5f" stroke-width="0.7" stroke-opacity="0.45" />
+    </pattern>
+    <path id="streamPath1" d="M 210 50 L 980 50" />
+    <path id="streamPath2" d="M 210 195 L 980 195" />
+  </defs>
+
+  <!-- Fondo principal -->
+  <rect width="1000" height="220" rx="16" fill="url(#portalBg)" />
+  <rect width="1000" height="220" rx="16" fill="url(#portalGrid)" />
+
+  <!-- Haz de escaneo horizontal animado -->
+  <rect x="-200" y="0" width="160" height="220" fill="url(#holoGlow)" opacity="0.4">
+    <animate attributeName="x" values="-200;1050;-200" dur="9s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Partículas viajando en el fondo -->
+  <circle r="2.5" fill="#38bdf8" opacity="0.7">
+    <animateMotion dur="5s" repeatCount="indefinite">
+      <mpath href="#streamPath1" />
+    </animateMotion>
+  </circle>
+  <circle r="2.5" fill="#2dd4bf" opacity="0.7">
+    <animateMotion dur="6.5s" begin="1.5s" repeatCount="indefinite">
+      <mpath href="#streamPath2" />
+    </animateMotion>
+  </circle>
+
+  <!-- Borde luminoso animado -->
+  <rect x="1.5" y="1.5" width="997" height="217" rx="15" fill="none" stroke="url(#cyberBorder)" stroke-width="2" stroke-opacity="0.85">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- ========================================================= -->
+  <!-- COLUMNA IZQUIERDA: HOLOGRAMA ANIMADO DE EDUBOT            -->
+  <!-- ========================================================= -->
+  <g transform="translate(125, 118)">
+    <!-- Halo holográfico de fondo -->
+    <circle cx="0" cy="-5" r="78" fill="url(#holoGlow)">
+      <animate attributeName="r" values="70;84;70" dur="3.2s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Anillos de base holográfica (Oficina Virtual) -->
+    <ellipse cx="0" cy="64" rx="58" ry="13" fill="none" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="8,5" opacity="0.75">
+      <animate attributeName="rx" values="54;62;54" dur="2.5s" repeatCount="indefinite" />
+    </ellipse>
+    <ellipse cx="0" cy="64" rx="38" ry="8" fill="#0284c7" fill-opacity="0.25" stroke="#2dd4bf" stroke-width="1" />
+
+    <!-- Personaje Edubot con levitación suave -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-9; 0,0" dur="2.8s" repeatCount="indefinite" />
+
+      <!-- Ondas de antena -->
+      <circle cx="0" cy="-68" r="6" fill="none" stroke="#2dd4bf" stroke-width="1.5">
+        <animate attributeName="r" values="5;20" dur="1.8s" repeatCount="indefinite" />
+        <animate attributeName="opacity" values="0.9;0" dur="1.8s" repeatCount="indefinite" />
+      </circle>
+
+      <!-- Antena -->
+      <line x1="0" y1="-46" x2="0" y2="-64" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" />
+      <circle cx="0" cy="-66" r="5" fill="#2dd4bf">
+        <animate attributeName="fill" values="#2dd4bf;#38bdf8;#2dd4bf" dur="1.2s" repeatCount="indefinite" />
+      </circle>
+
+      <!-- Cabeza de Edubot -->
+      <rect x="-36" y="-46" width="72" height="52" rx="16" fill="#0f172a" stroke="url(#botBody)" stroke-width="2.5" />
+      <!-- Orejeras / Nodos laterales -->
+      <rect x="-43" y="-30" width="6" height="20" rx="3" fill="#38bdf8" />
+      <rect x="37" y="-30" width="6" height="20" rx="3" fill="#38bdf8" />
+
+      <!-- Visor Digital -->
+      <rect x="-26" y="-36" width="52" height="28" rx="9" fill="#040d1a" stroke="#1e293b" stroke-width="1" />
+
+      <!-- Ojos expresivos de Edubot (con parpadeo animado) -->
+      <ellipse cx="-11" cy="-22" rx="5.5" ry="6.5" fill="#38bdf8">
+        <animate attributeName="ry" values="6.5;6.5;0.8;6.5;6.5" keyTimes="0;0.45;0.5;0.55;1" dur="4s" repeatCount="indefinite" />
+      </ellipse>
+      <ellipse cx="11" cy="-22" rx="5.5" ry="6.5" fill="#38bdf8">
+        <animate attributeName="ry" values="6.5;6.5;0.8;6.5;6.5" keyTimes="0;0.45;0.5;0.55;1" dur="4s" repeatCount="indefinite" />
+      </ellipse>
+      <!-- Sonrisa LED -->
+      <path d="M -8 -13 Q 0 -8 8 -13" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-linecap="round" />
+
+      <!-- Torso Ejecutivo con Corbata Cyber -->
+      <rect x="-28" y="10" width="56" height="38" rx="12" fill="#0f172a" stroke="url(#botBody)" stroke-width="2" />
+      <!-- Cuello de camisa y corbata ejecutiva -->
+      <polygon points="-8,11 8,11 0,20" fill="#e2e8f0" />
+      <polygon points="-3,18 3,18 4,34 0,40 -4,34" fill="#38bdf8" />
+      <!-- Credencial en el pecho -->
+      <rect x="9" y="20" width="12" height="8" rx="1.5" fill="#2dd4bf" opacity="0.9" />
+
+      <!-- Brazo izquierdo saludando animadamente -->
+      <g transform="translate(-30, 18)">
+        <animateTransform attributeName="transform" type="rotate" values="0 -30 18; -22 -30 18; 0 -30 18" dur="1.6s" repeatCount="indefinite" />
+        <rect x="-46" y="4" width="16" height="8" rx="4" fill="#38bdf8" />
+      </g>
+      <!-- Brazo derecho -->
+      <rect x="30" y="18" width="14" height="8" rx="4" fill="#38bdf8" />
+    </g>
+
+    <!-- Etiqueta bajo el avatar -->
+    <rect x="-54" y="74" width="108" height="20" rx="10" fill="#0f172a" stroke="#38bdf8" stroke-width="1" />
+    <text x="0" y="88" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#38bdf8" letter-spacing="1">
+      EDUBOT · IA
+    </text>
+  </g>
+
+  <!-- ========================================================= -->
+  <!-- COLUMNA CENTRAL: RECEPCIÓN DE OFICINA VIRTUAL & MENSAJE   -->
+  <!-- ========================================================= -->
+  <!-- Píldora de estado en vivo -->
+  <rect x="235" y="24" width="335" height="26" rx="13" fill="#0f172a" stroke="#10b981" stroke-width="1" stroke-opacity="0.6" />
+  <circle cx="253" cy="37" r="4.5" fill="#10b981">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="253" cy="37" r="4.5" fill="none" stroke="#10b981" stroke-width="1.5">
+    <animate attributeName="r" values="4.5;11" dur="1.4s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.8;0" dur="1.4s" repeatCount="indefinite" />
+  </circle>
+  <text x="268" y="41" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="700" fill="#10b981" letter-spacing="1">
+    OFICINA VIRTUAL INTERACTIVA · ONLINE 24/7
+  </text>
+
+  <!-- Título de invitación -->
+  <text x="235" y="82" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="25" font-weight="800" fill="#f8fafc">
+    🏢 Bienvenido a mi Oficina Virtual
+  </text>
+  <text x="235" y="106" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="14" fill="#94a3b8">
+    Mi secretario virtual <tspan fill="#38bdf8" font-weight="700">Edubot</tspan> está en recepción listo para atenderte en tiempo real:
+  </text>
+
+  <!-- Burbuja de diálogo interactiva de Edubot -->
+  <g transform="translate(235, 120)">
+    <rect width="465" height="76" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1.5" />
+    <rect x="0" y="0" width="4" height="76" rx="2" fill="#2dd4bf" />
+
+    <text x="18" y="25" font-family="'JetBrains Mono', Consolas, monospace" font-size="11.5" font-weight="700" fill="#2dd4bf">
+      💬 Edubot (Secretario Ejecutivo IA):
+    </text>
+    <!-- Indicador de escritura animado al lado del nombre -->
+    <circle cx="262" cy="21" r="2.5" fill="#38bdf8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="271" cy="21" r="2.5" fill="#38bdf8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0.25s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="280" cy="21" r="2.5" fill="#38bdf8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2s" begin="0.5s" repeatCount="indefinite" />
+    </circle>
+
+    <text x="18" y="47" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="13" font-style="italic" fill="#e2e8f0">
+      "¡Hola! Pasa adelante. Te guío por los proyectos de Eduardo,
+    </text>
+    <text x="18" y="65" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="13" font-style="italic" fill="#e2e8f0">
+      su experiencia en Arquitectura, Ciberseguridad e IA o agendamos contacto."
+    </text>
+  </g>
+
+  <!-- ========================================================= -->
+  <!-- COLUMNA DERECHA: BOTÓN PORTAL INTERACTIVO (CTA)           -->
+  <!-- ========================================================= -->
+  <g transform="translate(725, 42)">
+    <!-- Resplandor exterior pulsante del botón -->
+    <rect x="-4" y="-4" width="248" height="144" rx="18" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.5">
+      <animate attributeName="opacity" values="0.2;0.85;0.2" dur="2s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Caja del portal CTA -->
+    <rect width="240" height="136" rx="14" fill="url(#ctaGrad)" stroke="#7dd3fc" stroke-width="1.5" />
+
+    <!-- Etiqueta superior dentro del CTA -->
+    <rect x="20" y="18" width="200" height="22" rx="11" fill="#082f49" fill-opacity="0.65" />
+    <text x="120" y="33" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" font-weight="700" fill="#bae6fd" letter-spacing="1">
+      PORTAL INTERACTIVO WEB
+    </text>
+
+    <!-- Texto principal del botón -->
+    <text x="120" y="68" text-anchor="middle" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="17" font-weight="800" fill="#ffffff" letter-spacing="0.5">
+      ENTRAR A LA OFICINA
+    </text>
+
+    <!-- Píldora de acción con flecha animada -->
+    <rect x="28" y="82" width="184" height="36" rx="18" fill="#0f172a" stroke="#38bdf8" stroke-width="1.2" />
+    <text x="108" y="105" text-anchor="middle" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" font-weight="700" fill="#38bdf8">
+      HABLAR CON EDUBOT
+    </text>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 6,0; 0,0" dur="1.1s" repeatCount="indefinite" />
+      <text x="185" y="105" font-family="'Segoe UI', Roboto, Arial, sans-serif" font-size="15" font-weight="800" fill="#2dd4bf">
+        →
+      </text>
+    </g>
+  </g>
+</svg>

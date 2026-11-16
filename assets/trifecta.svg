@@ -10,6 +10,7 @@
       <stop offset="50%" stop-color="#818cf8" />
       <stop offset="100%" stop-color="#2dd4bf" />
     </linearGradient>
+    <path id="trifectaFlow" d="M 315 117 L 685 117" />
   </defs>
 
   <rect width="1000" height="210" rx="14" fill="url(#bg2)" stroke="#1e293b" stroke-width="1.5" />
@@ -19,8 +20,22 @@
     ARQUITECTURA DE VALOR: CONVERGENCIA EJECUTIVA · TÉCNICA · NORMATIVA
   </text>
 
-  <!-- Línea conectora entre los 3 nodos -->
-  <line x1="200" y1="115" x2="800" y2="115" stroke="url(#lineGrad)" stroke-width="2" stroke-dasharray="6,6" />
+  <!-- Línea conectora animada entre los 3 nodos -->
+  <line x1="200" y1="117" x2="800" y2="117" stroke="url(#lineGrad)" stroke-width="2.5" stroke-dasharray="8,8">
+    <animate attributeName="stroke-dashoffset" values="32;0" dur="1.5s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Nodos de datos viajando entre las capas -->
+  <circle r="4" fill="#38bdf8">
+    <animateMotion dur="2.6s" repeatCount="indefinite">
+      <mpath href="#trifectaFlow" />
+    </animateMotion>
+  </circle>
+  <circle r="4" fill="#2dd4bf">
+    <animateMotion dur="2.6s" begin="1.3s" repeatCount="indefinite">
+      <mpath href="#trifectaFlow" />
+    </animateMotion>
+  </circle>
 
   <!-- Nodo 1: Estrategia & Negocio -->
   <g transform="translate(45, 55)">

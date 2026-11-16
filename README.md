@@ -5,6 +5,14 @@
 <br/>
 
 <div align="center">
+  <a href="https://educhile1.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/edubot-portal.svg" width="100%" alt="Entrar a mi Oficina Virtual — Habla con mi secretario Edubot en https://educhile1.github.io/" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="./assets/trifecta.svg" width="100%" alt="Arquitectura de Valor: Estrategia, Ingeniería y Ciberseguridad" />
 </div>
 
@@ -20,6 +28,7 @@ identidad:
   nombre: "Eduardo Cayún (@educhile1)"
   formacion_base: ["Ingeniero", "Master of Business Administration (MBA)"]
   propuesta_de_valor: "Transformación digital, arquitectura en producción y ciberdefensa normativa"
+  oficina_virtual: "https://educhile1.github.io/ (Atendida 24/7 por mi secretario IA Edubot 🤖)"
 
 operacion_actual_en_produccion:
   proyecto_insignia:
@@ -62,10 +71,14 @@ modo_off_production:
 
 <div align="center">
 
-### 📫 Contacto Directo
+### 📫 Contacto Directo & Oficina Virtual
 
 Abierto a liderar iniciativas estratégicas de transformación digital, arquitectura de sistemas, ciberseguridad normativa y colaboraciones tecnológicas de alto impacto.
 
+<a href="https://educhile1.github.io/">
+  <img src="https://img.shields.io/badge/🏢_Oficina_Virtual_(Edubot_IA)-educhile1.github.io-0284c7?style=for-the-badge&labelColor=0f172a" alt="Oficina Virtual: https://educhile1.github.io/" />
+</a>
+&nbsp;
 <a href="mailto:eduardocayun@gmail.com">
   <img src="https://img.shields.io/badge/Contacto_Ejecutivo-eduardocayun@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=1e293b" alt="Correo electrónico: eduardocayun@gmail.com" />
 </a>
